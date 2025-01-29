@@ -44,13 +44,4 @@ dabl
 scikit-optimize
 autogluon
 
-<b> 1.Multi-Class Prediction of Obesity Risk 비만 예측 (다중분류)</b>
 
-<b> 2.리더보드 상 Private 상위 10% 진입(메달 권)이 목표</b><br>
- 2-1.목표달성 이후 금메달 도전 (3589명 참여대회 - 17등) 
-
-<b> 3.달성 현황</b>
-
-<b> 팀 스코어 목표 : 0.90886 (358/3589)</b>
-
-<b> 팀 제출 스코어 : 0.90968 (258/3589) - 목표 달성(7.2%)</b>
